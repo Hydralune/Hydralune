@@ -1,34 +1,31 @@
 ## Hi there 👋
 
-![Banner](https://user-images.githubusercontent.com/.../custom-banner.png) <!-- 可选：创建个性横幅图 -->
+**Software Engineering Student** @ Huazhong University of Science and Technology  
+🌟 *Dreaming to become a future tech leader*  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=68D7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Explorer" alt="动态标题" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=68D7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;AI+Explorer" alt="Typing Animation" />
 </p>
 
-🔭 **Currently Working On**  
-🌱 **Learning** React & Artificial Intelligence  
-💬 **Ask Me About** Python/JavaScript/Electron  
-📫 **Reach Me**: [![Gmail](https://img.shields.io/badge/-haoylon@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haoylon@gmail.com)  
-🌐 **Try My Magic Email**:  
-📧 [anything@ylon.xyz](mailto:hello@ylon.xyz)  
-✨ *Pro tip*: Replace "anything" with your favorite word!
+### 🚀 About Me
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+🔭 **Currently Working On** My Electron-based PDF Translator  
+🌱 **Learning** React & Artificial Intelligence (TensorFlow)  
+💬 **Ask Me About** Python | JavaScript | Electron  
+📫 **Professional Contact**: [![Gmail](https://img.shields.io/badge/-haoylon@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haoylon@gmail.com)  
+
+### ✨ Fun Tech Experiment
+📮 **Magic Email**:  
+[your-idea@ylon.xyz](mailto:test@ylon.xyz)  
+*(Try sending to any prefix@ylon.xyz!)*  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hydralune&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0366d6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydralune&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=333333" />
 </p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hydralune)
 
 
 <!--

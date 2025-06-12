@@ -23,8 +23,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hydralune&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0366d6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydralune&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=333333" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hydralune&show_icons=true&theme=default&border_color=dfe1e5&bg_color=ffffff&text_color=333333" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydralune&layout=compact&theme=default&border_color=dfe1e5&bg_color=ffffff&text_color=333333" />
 </p>
 
 

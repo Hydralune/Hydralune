@@ -8,8 +8,7 @@
 </p>
 
 ### 🚀 About Me
-
-🔭 **Currently Working On** My Electron-based PDF Translator  
+  
 🌱 **Learning** React & Artificial Intelligence (TensorFlow)  
 💬 **Ask Me About** Python | JavaScript | Electron  
 📫 **Professional Contact**: [![Gmail](https://img.shields.io/badge/-haoylon@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haoylon@gmail.com)  
